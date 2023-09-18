@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DMIT/static/css/main.870c554a.css",
+    "main.js": "/DMIT/static/js/main.7c6d2911.js",
+    "static/media/brain.png": "/DMIT/static/media/brain.a1c6b746b648f8c537a3.png",
+    "static/media/customer-review.png": "/DMIT/static/media/customer-review.4b30c2a6a2be96326d2b.png",
+    "static/media/careerGuidance.svg": "/DMIT/static/media/careerGuidance.984e32b1d8c17dc952027fd457e0c0cb.svg",
+    "static/media/careerCounselling.svg": "/DMIT/static/media/careerCounselling.9e0cafd1557281f623aa91b9fab934d2.svg",
+    "static/media/personalityDev.svg": "/DMIT/static/media/personalityDev.3745319e06759c2de8b1455d8758b02e.svg",
+    "static/media/kalpataru.svg": "/DMIT/static/media/kalpataru.19c125235fd66592947fbd64c22cb96c.svg",
+    "static/media/faqIcon.svg": "/DMIT/static/media/faqIcon.892d8436d7ec3a4a9b5816b6156390bd.svg",
+    "static/media/lifetimeSupport.svg": "/DMIT/static/media/lifetimeSupport.6b1f665af60e3df62146532af016d444.svg",
+    "index.html": "/DMIT/index.html",
+    "main.870c554a.css.map": "/DMIT/static/css/main.870c554a.css.map",
+    "main.7c6d2911.js.map": "/DMIT/static/js/main.7c6d2911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870c554a.css",
+    "static/js/main.7c6d2911.js"
+  ]
+}
