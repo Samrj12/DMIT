@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7cf0ea0.css",
-    "main.js": "/static/js/main.0a90116e.js",
+    "main.js": "/static/js/main.4ca01847.js",
     "static/media/customer-review.png": "/static/media/customer-review.4b30c2a6a2be96326d2b.png",
     "static/media/brain.svg": "/static/media/brain.45e1306146f4264ce7138dd6597c33c9.svg",
     "static/media/careerGuidance.svg": "/static/media/careerGuidance.984e32b1d8c17dc952027fd457e0c0cb.svg",
@@ -12,10 +12,10 @@
     "static/media/lifetimeSupport.svg": "/static/media/lifetimeSupport.6b1f665af60e3df62146532af016d444.svg",
     "index.html": "/index.html",
     "main.d7cf0ea0.css.map": "/static/css/main.d7cf0ea0.css.map",
-    "main.0a90116e.js.map": "/static/js/main.0a90116e.js.map"
+    "main.4ca01847.js.map": "/static/js/main.4ca01847.js.map"
   },
   "entrypoints": [
     "static/css/main.d7cf0ea0.css",
-    "static/js/main.0a90116e.js"
+    "static/js/main.4ca01847.js"
   ]
 }
