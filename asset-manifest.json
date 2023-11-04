@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DMIT/static/css/main.d7cf0ea0.css",
-    "main.js": "/DMIT/static/js/main.857490ed.js",
+    "main.css": "/static/css/main.d7cf0ea0.css",
+    "main.js": "/static/js/main.857490ed.js",
     "static/media/customer-review.png": "/DMIT/static/media/customer-review.4b30c2a6a2be96326d2b.png",
     "static/media/brain.svg": "/DMIT/static/media/brain.45e1306146f4264ce7138dd6597c33c9.svg",
     "static/media/careerGuidance.svg": "/DMIT/static/media/careerGuidance.984e32b1d8c17dc952027fd457e0c0cb.svg",
@@ -11,8 +11,8 @@
     "static/media/faqIcon.svg": "/DMIT/static/media/faqIcon.892d8436d7ec3a4a9b5816b6156390bd.svg",
     "static/media/lifetimeSupport.svg": "/DMIT/static/media/lifetimeSupport.6b1f665af60e3df62146532af016d444.svg",
     "index.html": "/DMIT/index.html",
-    "main.d7cf0ea0.css.map": "/DMIT/static/css/main.d7cf0ea0.css.map",
-    "main.857490ed.js.map": "/DMIT/static/js/main.857490ed.js.map"
+    "main.d7cf0ea0.css.map": "/static/css/main.d7cf0ea0.css.map",
+    "main.857490ed.js.map": "/static/js/main.857490ed.js.map"
   },
   "entrypoints": [
     "static/css/main.d7cf0ea0.css",
