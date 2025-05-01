@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/DMIT/static/css/main.a4a0bf7c.css",
-    "main.js": "/DMIT/static/js/main.5110180e.js",
-    "static/media/customer-review.png": "/DMIT/static/media/customer-review.4b30c2a6a2be96326d2b.png",
-    "static/media/brain.svg": "/DMIT/static/media/brain.45e1306146f4264ce7138dd6597c33c9.svg",
-    "static/media/careerGuidance.svg": "/DMIT/static/media/careerGuidance.984e32b1d8c17dc952027fd457e0c0cb.svg",
-    "static/media/careerCounselling.svg": "/DMIT/static/media/careerCounselling.9e0cafd1557281f623aa91b9fab934d2.svg",
-    "static/media/personalityDev.svg": "/DMIT/static/media/personalityDev.3745319e06759c2de8b1455d8758b02e.svg",
-    "static/media/kalpataru.svg": "/DMIT/static/media/kalpataru.19c125235fd66592947fbd64c22cb96c.svg",
-    "static/media/faqIcon.svg": "/DMIT/static/media/faqIcon.892d8436d7ec3a4a9b5816b6156390bd.svg",
-    "static/media/lifetimeSupport.svg": "/DMIT/static/media/lifetimeSupport.6b1f665af60e3df62146532af016d444.svg",
-    "index.html": "/DMIT/index.html",
-    "main.a4a0bf7c.css.map": "/DMIT/static/css/main.a4a0bf7c.css.map",
-    "main.5110180e.js.map": "/DMIT/static/js/main.5110180e.js.map"
+    "main.css": "/foraspecialnerd/static/css/main.dd10b1e9.css",
+    "main.js": "/foraspecialnerd/static/js/main.53bbbe7f.js",
+    "static/js/453.c03cf25b.chunk.js": "/foraspecialnerd/static/js/453.c03cf25b.chunk.js",
+    "static/media/sunflower.png": "/foraspecialnerd/static/media/sunflower.a944736a19426fd087ba.png",
+    "index.html": "/foraspecialnerd/index.html",
+    "main.dd10b1e9.css.map": "/foraspecialnerd/static/css/main.dd10b1e9.css.map",
+    "main.53bbbe7f.js.map": "/foraspecialnerd/static/js/main.53bbbe7f.js.map",
+    "453.c03cf25b.chunk.js.map": "/foraspecialnerd/static/js/453.c03cf25b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a0bf7c.css",
-    "static/js/main.5110180e.js"
+    "static/css/main.dd10b1e9.css",
+    "static/js/main.53bbbe7f.js"
   ]
 }
